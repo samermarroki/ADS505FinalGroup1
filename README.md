@@ -24,8 +24,12 @@ This portion of the project covers four key phases:
 ## Repository Structure
 
 ```text
-├── README.md                           # Documentation and handoff guide
-├── main_pipeline.py                    # Fully reproducible Python code script
+ADS505FinalGroup1/
+├── README.md                             # Documentation and handoff guide
+├── Technical_Notebook-Team1.ipynb
 ├── data/
-│   └── online_shoppers_intention.csv   # Source dataset
-└── requirements.txt                    # Project environment dependencies
+│   └── online_shoppers_intention.csv     # Source dataset
+└── work/
+    ├── chris_feature_engineering.ipynb
+    ├── Samer-Marroki.ipynb
+    └── modeling_and_evaluation.ipynb
