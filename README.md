@@ -26,10 +26,10 @@ This portion of the project covers four key phases:
 ```text
 ADS505FinalGroup1/
 ├── README.md                             # Documentation and handoff guide
-├── Technical_Notebook-Team1.ipynb
+├── Technical_Notebook-Team1.ipynb        # Consolidated final technical notebook
 ├── data/
 │   └── online_shoppers_intention.csv     # Source dataset
-└── work/
+└── work/                                 # Individual development notebooks
     ├── chris_feature_engineering.ipynb
     ├── Samer-Marroki.ipynb
     └── modeling_and_evaluation.ipynb
